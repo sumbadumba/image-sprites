@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ImageFilePath>../../down_Images/Stay_Kirby_2.png</ImageFilePath>
+    <Divide Width="1" Height="1"/>
+    <LoopAnim Value="true" UpdateInterval="0.1"/>
+    <BoundOffset Left="13" Top="25" Right="-20" Bottom="-20"/>
+</Sprite>
